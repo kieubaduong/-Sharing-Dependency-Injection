@@ -1,0 +1,4 @@
+interface Equipment{
+    void ActivateSkill();
+}
+
